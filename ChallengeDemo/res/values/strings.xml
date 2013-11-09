@@ -1,0 +1,19 @@
+<resources>
+    
+    <string name="menu_settings">Settings</string>
+    
+    <string name="app_name">ChallengeDemo</string>
+    <string name="get_trends">Get Trends</string>
+    <string name="get_tweets">Refresh Tweets</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="trend_name">Trend Name</string>
+    <string name="trend_url">Trend URL</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="title_activity_tweets">TweetsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_trend">TrendActivity</string>
+    <string name="invalid_token">Invalid application token. Please exit and try again.</string>
+    
+
+</resources>

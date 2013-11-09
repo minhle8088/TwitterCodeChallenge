@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical">	
+	
+	<TextView android:id="@+id/trend_name" 
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="10dip"
+		android:textSize="16sp" 
+		android:textStyle="bold"
+		android:text="@string/trend_name" 
+		android:textColor="#6E6E6E">
+	</TextView>
+	
+	<TextView android:id="@+id/trend_url" 
+	    android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="10dip"
+		android:textSize="14sp" 
+		android:text="@string/trend_url" 
+		android:textColor="#0B0B61">
+	</TextView>
+	
+</LinearLayout>
+

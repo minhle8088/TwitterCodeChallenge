@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+	
+	<TextView android:id="@+id/profileName" 
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content"		
+		android:textSize="16sp" 
+		android:text="@string/profile_name" 
+		android:textColor="#0000FF">
+	</TextView>
+	
+	<TextView android:id="@+id/tweetMessage" 
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:textSize="14sp"		
+		android:minLines="5"
+		android:textColor="#191007">
+	</TextView>
+	
+</LinearLayout>

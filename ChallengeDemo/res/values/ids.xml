@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="task_get_json" type="id"/>
+    <item name="error_occurs" type="id"/>
+    
+</resources>
